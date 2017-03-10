@@ -1,0 +1,27 @@
+1.0.0.0
+  1)composition:
+  ideas:
+    - use dynamically changing composition to keep user in tension->trying to find some patterns;
+    - make user to feel like if (he knows the composition & hears it for the first time)
+  #Plan
+    ¬ begin with a certain tune
+    ¬ play it for a while
+    ¬change melody part by part
+    ¬do not stop changing rhytm,key,,everything until...
+    ¬start implementing our tune(used in the beginning of the track) part by part,in different order ,
+      using different key,rhytm,etc.
+    ¬Make listener to feel as had heard last part of melody & make this part so signifficantly different
+      to make user to understand connection with the first part only(mostly) on subconscious level.
+    
+   possible implementation clues:
+   ^ change tune/key/rhytm(add shuffle);
+   ^ break tune into several parts and then shuffle;
+   ^ each part can be played in different key;
+   
+  possible perfect results:
+       +user hears recognisable tune at the end but he can not remember where he heard it;
+       +user realises that his brain takes 2 mostly different tunes and throws them in 1 to reduse data usage
+       and realises that so many things can be treated as similar;
+  
+ 
+       
