@@ -1,3 +1,3 @@
 # MusicSalad
-Idea of recursivity in music
-Release/tension
++Idea of recursivity in music
++Release/tension
